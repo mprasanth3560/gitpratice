@@ -9,7 +9,7 @@ public class MyDetails {
 	}
 	
 	public void id(int value) {
-		System.out.println("My Id is :"+value);
+		System.out.println("My Id :"+value);
 
 	}
 	public static void main(String[] args) {
